@@ -1,0 +1,21 @@
+Part 1,2: Sara 
+1. Abstract & Intro 
+2. Aritcheture/INFRASTRUCTURE CONCEPTS of the system
+
+
+Part 3: Shuyu
+3. Distributed design/features of the system
+
+Part 4: Gu 
+4. Methodology/Process on how to process the data using the system
+
+Part 5: Zhixian 
+5. Analysis on the queried data using data analysis software
+
+
+6. Results
+7. Conclusion and future work
+
+
+
+
